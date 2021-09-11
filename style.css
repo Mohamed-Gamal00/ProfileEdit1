@@ -75,9 +75,9 @@ html,body
 
 .myIMg
 {
-  border-radius: 10%;
+  border-radius: 3%;
   width: 200px;
-  height: 200px;
+  height: 300px;
 }
 .about,.services,.skills,.teams,.contact,footer
 {
